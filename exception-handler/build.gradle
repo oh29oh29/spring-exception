@@ -1,0 +1,10 @@
+group 'com.oh29oh29'
+version '0.0.1-SNAPSHOT'
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.12'
+}
