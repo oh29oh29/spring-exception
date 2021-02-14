@@ -3,7 +3,8 @@
 스프링 예외 처리에 대하여 공부한 내용을 정리.  
 
 참고한 곳은 아래와 같다.  
-> [Baeldung : Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
+> [Spring Blog: Exception Handling in Spring MVC](https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc)
+> [Baeldung: Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
 
 
 ### INDEX

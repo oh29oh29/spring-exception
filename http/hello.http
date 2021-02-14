@@ -1,1 +1,5 @@
-GET http://localhost:8080
+### @ExceptionHandler case 1
+GET http://localhost:8080/first
+
+### @ExceptionHandler case 2
+GET http://localhost:8080/second
