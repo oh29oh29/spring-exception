@@ -1,5 +1,8 @@
 ### @ExceptionHandler case 1
-GET http://localhost:8080/first
+GET http://localhost:8080/eh/first
 
 ### @ExceptionHandler case 2
-GET http://localhost:8080/second
+GET http://localhost:8080/eh/second
+
+### #ControllerAdvice case 1
+GET http://localhost:8080/ca/first

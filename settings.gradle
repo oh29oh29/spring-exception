@@ -1,3 +1,4 @@
 rootProject.name = 'spring-exception'
 include 'exception-handler'
+include 'controller-advice'
 
